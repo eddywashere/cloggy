@@ -1,0 +1,27 @@
+{
+  "name": "cloggy",
+  "version": "1.0.0",
+  "description": "A minimal logger object built with debug",
+  "main": "index.js",
+  "author": "Eddy Hernandez <edward.d.hernandez@gmail.com> (http://eddywashere.com)",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eddywashere/cloggy.git"
+  },
+  "keywords": [
+    "debug",
+    "logger",
+    "logging",
+    "log",
+    "console"
+  ],
+  "bugs": {
+    "url": "https://github.com/eddywashere/cloggy/issues"
+  },
+  "homepage": "https://github.com/eddywashere/cloggy#readme"
+}
